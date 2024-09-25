@@ -6,6 +6,6 @@ void main(){
   print(4%2);
   print(4/2);
   print(true);
-  print(false);//hello
+  print(false);//hi
 
 }
